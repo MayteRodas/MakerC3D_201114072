@@ -61,3 +61,4 @@ Carnet: 201711223
 
 **A los estudiantes del laboratorio del día sábado se les estará informando de la nueva dinámica de las hojas de trabajo y las fechas que aplican a su laboratorio el día 4 de marzo en su horario de laboratorio**
 # MakerC3D_201114072
+# MakerC3D_201114072
